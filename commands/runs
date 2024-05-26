@@ -1,2 +1,0 @@
-docker build . --tag licensing-service
-docker run -it -p8080:8080 licensing-service:latest
